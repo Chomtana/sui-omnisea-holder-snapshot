@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "module": "nodenext",
+    "noImplicitAny": false,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "resolveJsonModule": true,
+    "sourceMap": true
+  },
+  "include": ["*", "**/*"],
+  "exclude": ["node_modules", "**/*.spec.ts"]
+}
